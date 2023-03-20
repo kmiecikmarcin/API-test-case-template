@@ -22,5 +22,5 @@ Set up request body:
 * fieldFromObjectBody - [required/optional] - short description about validation and what type of value should be here.
 
 ## Test result:
-Expected status code: [expectedStatusCode]
+Expected status code: [expectedStatusCode].<br />
 Expected response: template of an example response object body.
