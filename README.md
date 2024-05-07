@@ -1,10 +1,12 @@
 # Test case template for an API endpoint
 
 ## Test step:
-Write what we want to check and put the short description what basically about the endpoint.
+Write what we want to check and put the short description about the endpoint.
 
 ## Test data:
 URL to API documentation: [url]
+
+Environment: [env]
 
 Prepare a [Method] request: [protocol]://[environment]-[main-endpoint]/[the-rest-of-endpoint-url]
 
